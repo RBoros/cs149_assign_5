@@ -467,8 +467,7 @@ Finally, we learned to keep names in headers from colliding (the parent's `NameC
 - SJSU CS 149 Assignment 5 instructions, including the notes on `getline`/`fgets`/`strdup` and on hashing, and the provided hash table template code.
 - SJSU CS 149 course slides/examples covering processes, `fork()`, `exec()`, `wait()`, shared memory, `mmap()`, and dynamic memory allocation.
 - zyBooks / zyLabs CS 149 environment, provided test files, and the valgrind installation in zyLabs.
-- Claude (Anthropic) - used for assistance with this assignment. Public chat link: **[ADD PUBLIC CHAT LINK BEFORE SUBMITTING]**
-
+- Claude (Anthropic) - used for assistance with this assignment. 
 # Acknowledgements
 
 We would like to acknowledge the SJSU CS 149 course materials, lectures, slides, zyBooks exercises, and provided examples for explaining the process, shared-memory and dynamic-memory concepts used in this assignment.
